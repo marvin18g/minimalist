@@ -1,0 +1,28 @@
+body{
+    cursor: pointer;
+}
+.gt{
+    animation: transition 4s ease-in-out infinite;
+}
+
+.perrito{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+.perrito img{
+    height: 200px;
+    margin-top: 143px;
+
+}
+.containert{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-top: 274px;
+    
+}
+.textos h1{
+    width: 200px;
+}
